@@ -42,5 +42,3 @@ print('world')
 [네이버로 가기](https://www.naver.com)
 
 ![짱구](https://upload.wikimedia.org/wikipedia/ko/thumb/4/4a/%EC%8B%A0%EC%A7%B1%EA%B5%AC.png/250px-%EC%8B%A0%EC%A7%B1%EA%B5%AC.png)
->>>>>>> 047b9837d5afd176cb04196f973b328a9971ead9
-
